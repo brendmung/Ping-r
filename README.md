@@ -1,2 +1,2 @@
 # Ping-r
-easy to use ping tool
+Simple-Easy-to-use-ping-tool
